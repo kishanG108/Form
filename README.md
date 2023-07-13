@@ -1,3 +1,3 @@
 # Form
 This a form which is taking Name , Branch ,Email , Phone Number as details.
-https://rococo-crumble-68aa7a.netlify.app
+Direct link: https://rococo-crumble-68aa7a.netlify.app
